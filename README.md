@@ -1,6 +1,6 @@
 ## Mostly here for my company Fawas Interactive 🐑
 
-`Working on various ambitious projects. I love Godot, Halloween, zombies, horror, and technology 😎`
+`Working on various ambitious projects. I love the Godot Engine, Halloween, zombies, horror, camping, and technology 😎`
 
 ## Games
 - 🤡 Clown Clear: https://www.clownclear.com/
